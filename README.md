@@ -1,1 +1,1 @@
-# Mazmanian_Lab
+### NGS pipelines for Mazmanian Lab
